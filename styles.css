@@ -394,7 +394,7 @@ section {
   
   article {
     display: flex;
-    width: 10rem;
+    width: 12rem;
     justify-content: space-around;
     gap: 0.5rem;
   }
@@ -402,6 +402,11 @@ section {
   article .icon {
     cursor: default;
   }
+
+  #xyz {
+    margin-left: -10px; /* Adjust the value to control how much it shifts */
+  }
+  
   
  /* Experience Section */
 
