@@ -404,16 +404,11 @@ section {
   }
 
   #xyz {
-    margin-left: -12px; /* Adjust the value to control how much it shifts */
+    margin-left: -15px; /* Adjust the value to control how much it shifts */
   }
   
   
  /* Experience Section */
-
-* {
-    margin: 0;
-    padding: 0;
-  }
   
   .container {
     min-height: 100vh;
