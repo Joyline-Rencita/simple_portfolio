@@ -1,5 +1,5 @@
 // Animation Script for display
-const animationScript = ["Final Year CSE Student", "Front End Developer", "React.js Developer", "Full Stack Developer"];
+const animationScript = ["Final Year CSE Student", "Front End Developer", "React.js Developer", "Graphic Designer" ,"Full Stack Developer"];
 
 // Typing animation script start
 new Typed(".typing", {
